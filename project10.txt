@@ -1,0 +1,43 @@
+Project 10 - Dynamic Branch Prediction
+COMP300 @ USD (Fall 2018)
+
+1. Partner A Name: Eduardo Ortega 
+   Partner B Name: Nick Loyd
+
+2. Partner A Email: eortega@sandiego.edu
+   Partner B Email: nloyd@sandiego.edu
+
+3. Project Overview: 	In this project we simulated a dynamic branch buffer.
+			To do this we had to create the logic of our psuedo cache
+			that held, besed on PC value of whether we were taking or 
+			not taking the branches then based on past treads, predicted 
+			the stage in which what would occur.  
+
+4. Testing Summary:	We ran into alot of false positives because our logic 
+			originally or our switch case statement for our next state 
+			logic had a singular default when in actuality we should have 
+			had two defaults pending if it was not a hit.  Due to this, we 
+			did not know how to instiate the logic.  After goign to Sat we 
+			were ale to figure outthe logc for it and get our first 6 tests
+			run positie with no  false positves.   
+
+5. Test Vector Explanations:  	We wrote to a different entry in the buffer and had it go
+				all the way up to 2'b11.  then from here we tried to go 
+				one ever but we could not due to our logical protection 
+				from this happening. Then from here we overwrote the 1st 
+				entry of the buffer several times with dfferent braches.
+
+6. Hours Spent on Project: 30
+	- Partner A alone:10
+	- Partner B alone:10
+	- Together: 10
+
+7. Project Bucks:
+	- On this project:
+		- Partner A: 0
+		- Partner B: 0
+	- So far this semester:
+		- Partner A: 0
+		- Partner B: 0
+
+8. (Optional) Comments:

@@ -1,0 +1,150 @@
+C:/Users/holaE/Desktop/comp300/projects/p10/mips_core.sv {1 {vlog -work work -sv -stats=none C:/Users/holaE/Desktop/comp300/projects/p10/mips_core.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module mips_core
+
+Top level modules:
+	mips_core
+
+} {} {}} C:/Users/holaE/Desktop/comp300/projects/p10/hazard_unit.sv {1 {vlog -work work -sv -stats=none C:/Users/holaE/Desktop/comp300/projects/p10/hazard_unit.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module hazard_unit
+
+Top level modules:
+	hazard_unit
+
+} {} {}} C:/Users/holaE/Desktop/comp300/projects/p10/alu.sv {1 {vlog -work work -sv -stats=none C:/Users/holaE/Desktop/comp300/projects/p10/alu.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module alu
+
+Top level modules:
+	alu
+
+} {} {}} C:/Users/holaE/Desktop/comp300/projects/p10/dmem.sv {1 {vlog -work work -sv -stats=none C:/Users/holaE/Desktop/comp300/projects/p10/dmem.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module dmem
+
+Top level modules:
+	dmem
+
+} {} {}} C:/Users/holaE/Desktop/comp300/projects/p10/mux2.sv {1 {vlog -work work -sv -stats=none C:/Users/holaE/Desktop/comp300/projects/p10/mux2.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module mux2
+
+Top level modules:
+	mux2
+
+} {} {}} C:/Users/holaE/Desktop/comp300/projects/p10/branch_target_buffer.sv {1 {vlog -work work -sv -stats=none C:/Users/holaE/Desktop/comp300/projects/p10/branch_target_buffer.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module branch_target_buffer
+
+Top level modules:
+	branch_target_buffer
+
+} {} {}} C:/Users/holaE/Desktop/comp300/projects/p10/btb_tb.sv {1 {vlog -work work -sv -stats=none C:/Users/holaE/Desktop/comp300/projects/p10/btb_tb.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module btb_tb
+
+Top level modules:
+	btb_tb
+
+} {} {}} C:/Users/holaE/Desktop/comp300/projects/p10/system.sv {1 {vlog -work work -sv -stats=none C:/Users/holaE/Desktop/comp300/projects/p10/system.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module top
+
+Top level modules:
+	top
+
+} {} {}} C:/Users/holaE/Desktop/comp300/projects/p10/regfile.sv {1 {vlog -work work -sv -stats=none C:/Users/holaE/Desktop/comp300/projects/p10/regfile.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module regfile
+
+Top level modules:
+	regfile
+
+} {} {}} C:/Users/holaE/Desktop/comp300/projects/p10/aludec.sv {1 {vlog -work work -sv -stats=none C:/Users/holaE/Desktop/comp300/projects/p10/aludec.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module aludec
+
+Top level modules:
+	aludec
+
+} {} {}} C:/Users/holaE/Desktop/comp300/projects/p10/adder.sv {1 {vlog -work work -sv -stats=none C:/Users/holaE/Desktop/comp300/projects/p10/adder.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module adder
+
+Top level modules:
+	adder
+
+} {} {}} C:/Users/holaE/Desktop/comp300/projects/p10/imem.sv {1 {vlog -work work -sv -stats=none C:/Users/holaE/Desktop/comp300/projects/p10/imem.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module imem
+
+Top level modules:
+	imem
+
+} {} {}} C:/Users/holaE/Desktop/comp300/projects/p10/zeroext.sv {1 {vlog -work work -sv -stats=none C:/Users/holaE/Desktop/comp300/projects/p10/zeroext.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module zeroext
+
+Top level modules:
+	zeroext
+
+} {} {}} C:/Users/holaE/Desktop/comp300/projects/p10/maindec.sv {1 {vlog -work work -sv -stats=none C:/Users/holaE/Desktop/comp300/projects/p10/maindec.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module maindec
+
+Top level modules:
+	maindec
+
+} {} {}} C:/Users/holaE/Desktop/comp300/projects/p10/signext.sv {1 {vlog -work work -sv -stats=none C:/Users/holaE/Desktop/comp300/projects/p10/signext.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module signext
+
+Top level modules:
+	signext
+
+} {} {}} C:/Users/holaE/Desktop/comp300/projects/p10/shiftleft2.sv {1 {vlog -work work -sv -stats=none C:/Users/holaE/Desktop/comp300/projects/p10/shiftleft2.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module shiftleft2
+
+Top level modules:
+	shiftleft2
+
+} {} {}} C:/Users/holaE/Desktop/comp300/projects/p10/core_controller.sv {1 {vlog -work work -sv -stats=none C:/Users/holaE/Desktop/comp300/projects/p10/core_controller.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module core_controller
+
+Top level modules:
+	core_controller
+
+} {} {}} C:/Users/holaE/Desktop/comp300/projects/p10/mux3.sv {1 {vlog -work work -sv -stats=none C:/Users/holaE/Desktop/comp300/projects/p10/mux3.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module mux3
+
+Top level modules:
+	mux3
+
+} {} {}} C:/Users/holaE/Desktop/comp300/projects/p10/eq.sv {1 {vlog -work work -sv -stats=none C:/Users/holaE/Desktop/comp300/projects/p10/eq.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module eq
+
+Top level modules:
+	eq
+
+} {} {}} C:/Users/holaE/Desktop/comp300/projects/p10/flip_flops.sv {1 {vlog -work work -sv -stats=none C:/Users/holaE/Desktop/comp300/projects/p10/flip_flops.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module flopr
+-- Compiling module flopenr
+
+Top level modules:
+	flopr
+	flopenr
+
+} {} {}} C:/Users/holaE/Desktop/comp300/projects/p10/mips_testbench.sv {1 {vlog -work work -sv -stats=none C:/Users/holaE/Desktop/comp300/projects/p10/mips_testbench.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module testbench
+
+Top level modules:
+	testbench
+
+} {} {}}
